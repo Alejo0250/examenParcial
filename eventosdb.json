@@ -1,0 +1,205 @@
+[
+  {
+    "id": "evt-0002",
+    "title": "Concierto Sinfónico de Verano",
+    "categoria": "🎵 Música",
+    "artistas": ["💎 Orquesta Filarmónica Nacional"],
+    "ciudad": "🏙️ Bogotá",
+    "lugar": "📍 Teatro Mayor",
+    "fecha": "📅 05/03/2025",
+    "hora": "🕒 19:30 - 22:00",
+    "precios": "💵 100.00",
+    "moneda": "🪙COP",
+    "stock": "📈 850",
+    "soldOut": true,
+    "popularidad": "⭐ 87",
+    "imagen": "1.jpg",
+    "galeria": [
+      "9.1.jpg",
+      "9.2.jpg",
+      "9.3.jpg"
+  ],
+    "politicas": {
+      "edad": "👥 Todas las edades",
+      "reembolso": "♻️ Reembolso hasta 48h antes"
+    },
+    "descripcion": "📗 Un repertorio de música clásica con obras de Beethoven y Mozart.",
+    "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4892.43792190855!2d-74.0626669!3d4.756718!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f85bae1d8a237%3A0x272aaf4e65db467d!2sTeatro%20Mayor%20Julio%20Mario%20Santo%20Domingo!5e1!3m2!1ses!2spe!4v1759589213911!5m2!1ses!2spe\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "id": "evt-0003",
+    "title": "Festival Urbano 2025",
+    "categoria": "☘️ Festival",
+    "artistas": ["💎 Daddy Yankee", "💎 J. Álvarez", "💎 Manuel Turizo"],
+    "ciudad": "🏙️ Lima",
+    "lugar": "📍 Estadio Nacional",
+    "fecha": "📅 18/10/2025",
+    "hora": "🕒 19:00 - 23:30",
+    "precios": "💵 150.00",
+    "moneda": "🪙 PEN",
+    "stock": "📈 30000",
+    "soldOut": false,
+    "popularidad": "⭐ 95",
+    "imagen": "2.jpg",
+    "politicas": {
+      "edad": "👥 18+",
+      "reembolso": "❌ No reembolsable"
+    },
+    "descripcion": "📗 Un festival de música urbana con artistas internacionales y nacionales.",
+    "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2854.5987123633413!2d-77.03392184489358!3d-12.068408716802413!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c8eb498672dd%3A0xefa377174834b5d7!2sEstadio%20Nacional%20del%20Per%C3%BA!5e1!3m2!1ses!2spe!4v1759590206443!5m2!1ses!2spe\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "id": "evt-0004",
+    "title": "Stand-Up Comedy Night",
+    "categoria": "🎤 Stand-Up",
+    "artistas": ["💎 Jorge Luna", "💎 Ricardo Mendoza"],
+    "ciudad": "🏙️ Buenos Aires",
+    "lugar": "📍 Teatro Gran Rex",
+    "fecha": "📅 16/11/2025",
+    "hora": "🕒 20:00 - 23:00",
+    "precios": "💵 45.00",
+    "moneda": "🪙 ARS",
+    "stock": "📈 400",
+    "soldOut": false,
+    "popularidad": "⭐ 78",
+    "imagen": "3.jpg",
+    "politicas": {
+      "edad": "👥 16+",
+      "reembolso": "❌ No reembolsable"
+    },
+    "descripcion": "📗 Una noche de comedia con risas garantizadas.",
+    "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4040.897264120924!2d-58.381441523417706!3d-34.60338285748203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccaceed5746b9%3A0xf933ab84305babc0!2sTeatro%20Gran%20Rex!5e1!3m2!1ses!2spe!4v1759590299206!5m2!1ses!2spe\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "id": "evt-0005",
+    "title": "Obra de Teatro: La Casa de Bernarda Alba",
+    "categoria": "🎭 Teatro",
+    "artistas": ["💎 Compañía Nacional de Teatro"],
+    "ciudad": "🏙️ Ciudad de México",
+    "lugar": "📍 Teatro de la Ciudad",
+    "fecha": "📅 15/08/2025",
+    "hora": "🕒 16:30 - 19:45",
+    "precios": "💵 60.00",
+    "moneda": "🪙 MXN",
+    "stock": "📈 600",
+    "soldOut": false,
+    "popularidad": "⭐ 82",
+    "imagen": "4.jpg",
+    "politicas": {
+      "edad": "👥 12+",
+      "reembolso": "♻️ Reembolso hasta 72h antes"
+    },
+    "descripcion": "📗 Adaptación moderna de la clásica obra de Lorca.",
+    "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4629.56167320955!2d-99.1421197142193!3d19.43669859375047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f92c54afead3%3A0x89d05acd9c9c47f7!2sTeatro%20de%20la%20Ciudad%20Esperanza%20Iris!5e1!3m2!1ses!2spe!4v1759590402465!5m2!1ses!2spe\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "id": "evt-0006",
+    "title": "Maratón Rock al Parque",
+    "categoria": "🎵 Música",
+    "artistas": ["💎 Pedro Suárez Vértiz", "💎 Christian Meier"],
+    "ciudad": "🏙️ Bogotá",
+    "lugar": "📍 Parque Simón Bolívar",
+    "fecha": "📅 20/12/2025",
+    "hora": "🕒 14:00 - 18:00",
+    "precios": "💵 0.00",
+    "moneda": "🪙 COP",
+    "stock": "📈 50000",
+    "soldOut": false,
+    "popularidad": "⭐ 98",
+    "imagen": "5.jpg",
+    "politicas": {
+      "edad": "👥 Todas las edades",
+      "reembolso": "♻️ Evento gratuito"
+    },
+    "descripcion": "📗 El festival gratuito más grande de rock en Latinoamérica.",
+    "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d32916.69379330014!2d-74.097152539358!3d4.663211092917668!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9b0cff4e4bef%3A0xfcb38de0bb96396d!2sParque%20Sim%C3%B3n%20Bolivar!5e1!3m2!1ses!2spe!4v1759590482759!5m2!1ses!2spe\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "id": "evt-0007",
+    "title": "Ballet Clásico: El Lago de los Cisnes",
+    "categoria": "🎭 Teatro",
+    "artistas": ["💎 Compañía Nacional de Ballet"],
+    "ciudad": "🏙️ Santiago de Chile",
+    "lugar": "📍 Teatro Municipal",
+    "fecha": "📅 12/02/2025",
+    "hora": "🕒 22:00 - 00:00",
+    "precios": "💵 200.00",
+    "moneda": "🪙 CLP",
+    "stock": "📈 1200",
+    "soldOut": false,
+    "popularidad": "⭐ 90",
+    "imagen": "6.jpg",
+    "politicas": {
+      "edad": "👥 10+",
+      "reembolso": "♻️ Reembolso hasta 7 días antes"
+    },
+    "descripcion": "📗 Una de las obras maestras del ballet clásico.",
+    "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4094.288358101569!2d-70.77295152345995!3d-33.49040529956094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662c2dc2edac4f9%3A0x6f95896c323d1dcb!2sTeatro%20Municipal%2C%20Maip%C3%BA%2C%20Regi%C3%B3n%20Metropolitana%2C%20Chile!5e1!3m2!1ses!2spe!4v1759590515326!5m2!1ses!2spe\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "id": "evt-0008",
+    "title": "Conferencia de Tecnología Futuro 2025",
+    "categoria": "🧩 Otros",
+    "artistas": ["💎 Ponente Internacional", "💎 Startups locales"],
+    "ciudad": "🏙️ Quito",
+    "lugar": "Centro de Convenciones",
+    "fecha": "📅 20/05/2025",
+    "hora": "🕒 09:00 - 17:00",
+    "precios": "💲 100.00",
+    "moneda": "🪙 USD",
+    "stock": "📈 2500",
+    "soldOut": false,
+    "popularidad": "⭐ 85",
+    "imagen": "7.jpg",
+    "politicas": {
+      "edad": "👥 Todas las edades",
+      "reembolso": "♻️ Reembolso parcial hasta 5 días antes"
+    },
+    "descripcion": "📗 Una cumbre sobre innovación tecnológica y futuro digital.",
+    "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4909.330623262799!2d-78.49224712417814!3d-0.14691023544390075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d5854cc3770f7b%3A0xded72d14b4f1d7a7!2sCentro%20de%20Convenciones%20Metropolitano%20de%20Quito%20CCMQ!5e1!3m2!1ses!2spe!4v1759590633800!5m2!1ses!2spe\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "id": "evt-0009",
+    "title": "Festival de Jazz en la Costa",
+    "categoria": "🎵 Música",
+    "artistas": ["💎 Michael Mayo", "💎 Koln 75", "💎 Arturo Cid", "💎 Carmen Alcolea"],
+    "ciudad": "🏙️ Cartagena",
+    "lugar": "📍 Plaza Principal",
+    "fecha": "📅 10/10/2025",
+    "hora": "🕒 20:15 - 23:45",
+    "precios": "💵 75.00",
+    "moneda": "🪙 COP",
+    "stock": "📈 2000",
+    "soldOut": false,
+    "popularidad": "⭐ 70",
+    "imagen": "8.jpg",
+    "politicas": {
+      "edad": "👥 Todas las edades",
+      "reembolso": "❌ No reembolsable"
+    },
+    "descripcion": "📗 Un festival de jazz frente al Mar Caribe.",
+    "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4828.333549937701!2d-75.55376542416428!3d10.423239965607369!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8ef62fa01daa59cd%3A0xf1ec33dc7f80c32d!2sPlaza%20de%20Bol%C3%ADvar!5e1!3m2!1ses!2spe!4v1759590550738!5m2!1ses!2spe\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "id": "evt-0010",
+    "title": "Cine al Aire Libre: Ciclo de Clásicos",
+    "categoria": "🧩 Otros",
+    "artistas": ["💎 CineClub Urbano"],
+    "ciudad": "🏙️ Medellín",
+    "lugar": "📍 Parque de los Deseos",
+    "fecha": "📅 22/09/2025",
+    "hora": "🕒 19:00 - 21:30",
+    "precios": "💵 0.00",
+    "moneda": "🪙 COP",
+    "stock": "📈 1500",
+    "soldOut": false,
+    "popularidad": "⭐ 65",
+    "imagen": "9.jpg",
+    "politicas": {
+      "edad": "👥 Todas las edades",
+      "reembolso": "♻️ Evento gratuito"
+    },
+    "descripcion": "📗 Proyección gratuita de películas clásicas bajo las estrellas.",
+    "mapa": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4879.994994456915!2d-75.56866042418393!3d6.268440626073063!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e4428e77a713329%3A0x5201eb6a7fe59226!2sParque%20de%20los%20Deseos!5e1!3m2!1ses!2spe!4v1759590674109!5m2!1ses!2spe\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+}
+]

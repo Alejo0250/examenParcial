@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Eventos - Hermes | Contacto</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div id="menu-icon" class="menu-icon">☰</div>
+      <h1>Eventos - Hermes</h1>
+      <nav id="menu" class="hidden">
+        <ul>
+          <li><a href="index.html" class="home-btn" title="Inicio">🏠 Inicio</a></li> <!-- # Botón de inicio con ícono de casita -->
+          <li><a href="contacto.html" class="contact-btn" title="Contacto">📞 Contacto</a></li> <!-- # Botón de contacto con ícono de teléfono -->
+        </ul>
+      </nav>
+    </header>
+    <div class="contact-form">
+      <h2>Dejanos tus datos</h2>
+      <form id="contact-form">
+        <label for="name">Nombre:</label>
+        <input type="text" id="name" name="name" required />
+
+        <label for="email">Correo Electrónico:</label>
+        <input type="email" id="email" name="email" required />
+
+        <label for="message">Mensaje:</label>
+        <textarea id="message" name="message" rows="4" required></textarea>
+
+        <select id="pais" name="pais">
+          <option value="peru">Perú</option>
+          <option value="colombia">Colombia</option>
+          <option value="mexico">México</option>
+          <option value="argentina">Argentina</option>
+        </select>
+
+        <button type="submit">Enviar</button>
+      </form>
+    </div>
+    <div class="contact-info">
+      <p>Teléfono: +51 904 704 299</p>
+      <p>Dirección: Av. La Fontana 1250, La Molina, Lima, Perú</p>
+      <div class="mapa">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38402.40199645278!2d-76.99421251523437!3d-12.098703631402516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c6e79034dc63%3A0x393610bdc506718b!2sFacultad%20de%20Ingenier%C3%ADa%20y%20Arquitectura%20-%20Universidad%20de%20San%20Mart%C3%ADn%20de%20Porres%20(USMP)!5e1!3m2!1ses!2spe!4v1759557715539!5m2!1ses!2spe"
+          width="600"
+          height="450"
+          style="border: 0"
+          allowfullscreen=""
+          loading="lazy"
+        ></iframe>
+      </div>
+      <div class="social-media">
+        <a href="https://www.facebook.com" target="_blank">Facebook</a>
+        <a href="https://www.twitter.com" target="_blank">Twitter</a>
+        <a href="https://www.instagram.com" target="_blank">Instagram</a>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

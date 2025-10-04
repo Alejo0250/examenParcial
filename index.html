@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Eventos - Hermes</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <div id="menu-icon" class="menu-icon">☰</div>
+      <h1>Eventos - Hermes</h1>
+      <nav id="menu" class="hidden">
+        <ul>
+          <li><a href="index.html" class="home-btn" title="Inicio">🏠 Inicio</a></li> <!-- # Botón de inicio con ícono de casita -->
+          <li><a href="contacto.html" class="contact-btn" title="Contacto">📞 Contacto</a></li> <!-- # Botón de contacto con ícono de teléfono -->
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Contenedor para los eventos -->
+    <select id="categoriaFiltro">
+      <option value="todas">Todas las categorías</option>
+      <option value="🎵 Música">🎵 Música</option>
+      <option value="☘️ Festival">☘️ Festival</option>
+      <option value="🎤 Stand-Up">🎤 Stand-Up</option>
+      <option value="🎭 Teatro">🎭 Teatro</option>
+      <option value="🧩 Otros">🧩 Otros</option>
+    </select>
+      <select id="rangoFechas">
+        <option value="todas">Todas las fechas</option>
+        <option value="📅 12/02/2025">📅 12/02/2025</option>
+        <option value="📅 05/03/2025">📅 05/03/2025</option>
+        <option value="📅 20/05/2025">📅 20/05/2025</option>
+        <option value="📅 15/08/2025">📅 15/08/2025</option>
+        <option value="📅 22/09/2025">📅 22/09/2025</option>
+        <option value="📅 10/10/2025">📅 10/10/2025</option>
+        <option value="📅 18/10/2025">📅 18/10/2025</option>
+        <option value="📅 16/11/2025">📅 16/11/2025</option>
+        <option value="📅 20/12/2025">📅 20/12/2025</option>
+      </select>
+    
+    <button id="toggleVista">Vista Lista</button>
+    <div class="event-grid"></div>
+
+    <!-- Modal para detalle de eventos -->
+    <div id="movieModal" class="modal hidden">
+      <div class="modal-content">
+        <span class="close-btn">&times;</span>
+        <div class="modal-body">
+          <div class="modal-image">
+            <img id="modalImage" src="" alt="Imagen del evento" />
+          </div>
+          <div class="modal-details">
+            <h2 id="modalTitle"></h2>
+            <div class="modal-info">
+              <p><strong>Ciudad:</strong> <span id="modalCiudad"></span></p>
+              <p><strong>Categoría:</strong> <span id="modalCategoria"></span></p>
+              <p>
+                <strong>Lugar:</strong>
+                <span id="modalLugar"></span>
+              </p>
+              <p>
+                <strong>Fecha:</strong>
+                <span id="modalFecha"></span>
+              </p>
+            </div>
+            <div class="modal-cast">
+              <strong>Artistas:</strong>
+              <div id="modalArtistas"></div>
+              <p>
+                <strong>Hora:</strong>
+                <span id="modalHora"></span>
+              </p>
+              <p>
+                <strong>Popularidad:</strong>
+                <span id="modalPopularidad"></span>
+              </p>
+              <p>
+                <strong>Edad Recomendada:</strong>
+                <span id="modalEdad"></span>
+              </p>
+              <p>
+                <strong>Política de Reembolso:</strong>
+                <span id="modalReembolso"></span>
+              </p>
+              <p>
+                <strong>Descripción:</strong>
+                <span id="modalDescripcion"></span>
+              </p>
+            <div class="modal-map">
+                <div id="modalMapa"></div>
+              </div>
+            </div>
+            <div class="modal-map">
+              <div id="modalMapa"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="eventos.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
